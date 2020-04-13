@@ -28,13 +28,13 @@ function stupidcat() {
 function checkforfunnysecret(slapcount) {
 	var amusingsecretdiv = document.getElementById("stupidcismalecat");
 	if (slapcount >= 110000) {
-		amusingsecretdiv.innerHTML = `there is nothing after this line. if you'd like to contribute though, dm me on twitter @rai_nyaa`;
+		amusingsecretdiv.innerHTML = `there is nothing after this line. if you'd like to contribute though, dm me on twitter @warnvod`;
 	}
 	else if (slapcount >= 101000) {
-		amusingsecretdiv.innerHTML = `grumm cute`;
+		amusingsecretdiv.innerHTML = `stan 100 gecs`;
 	}
 	else if (slapcount >= 100000) {
-		amusingsecretdiv.innerHTML = `Raymond has been sent to hell, this is merely a figment if your imagination at this point. Will you continue?`;
+		amusingsecretdiv.innerHTML = `candy ken has been sent to hell, this is merely a figment if your imagination at this point. Will you continue?`;
 	}
 	else if (slapcount >= 50000) {
 		amusingsecretdiv.innerHTML = `epstein didn't kill himself`;
@@ -85,10 +85,10 @@ function checkforfunnysecret(slapcount) {
 		amusingsecretdiv.innerHTML = `haha just kidding`;
 	}
 	else if (slapcount === 200) {
-		amusingsecretdiv.innerHTML = `raymond is dead now you may stop`;
+		amusingsecretdiv.innerHTML = `candy ken is dead now you may stop`;
 	}
 	else if (slapcount >= 100) {
-		amusingsecretdiv.innerHTML = `wow, you really do hate raymond. good.`;
+		amusingsecretdiv.innerHTML = `wow, you really do hate candy ken. good.`;
 	}
 	else if (slapcount === 69) {
 		amusingsecretdiv.innerHTML = `haha sex number`;	

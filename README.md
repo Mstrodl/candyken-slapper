@@ -1,2 +1,2 @@
-# raymond-slapper.github.io
-funny hit raymond stupid cat idiot
+# aveao.github.io/candyken-slapper
+funny hit candy ken oops sorry
