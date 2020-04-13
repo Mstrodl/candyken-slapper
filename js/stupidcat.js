@@ -79,7 +79,7 @@ function checkforfunnysecret(slapcount) {
 		amusingsecretdiv.innerHTML = `funny weed number`;
 	}
 	else if (slapcount >= 202) {
-		amusingsecretdiv.innerHTML = `slap cat`;
+		amusingsecretdiv.innerHTML = `slap ken`;
 	}
 	else if (slapcount === 201) {
 		amusingsecretdiv.innerHTML = `haha just kidding`;
