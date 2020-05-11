@@ -21,6 +21,11 @@ function stupidcat() {
 	var thisSlap = slap.cloneNode(true);
 	thisSlap.volume = 0.2;
 	thisSlap.play();
+	thisSlap.addEventListener("progress", function() {
+		if (thisSlap.ended) {
+			thisSlap.src = undefined;
+		}
+	});
 	localStorage["slapcount"] = slapcountint;
 	updatescore();
 }
